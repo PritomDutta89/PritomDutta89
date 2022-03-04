@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pritom Dutta</h1>
+<h1 align="center">Hi 👋, I'm PritomDutta</h1>
 <h3 align="center">Aspiring Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritomdutta89&label=Profile%20views&color=0e75b6&style=flat" alt="pritomdutta89" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 📝 I regularly write articles on [GeeksForGeeks](GeeksForGeeks)
+- 📝 I regularly write articles on [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 
 - 💬 Ask me about **ReactJs, JS, HTML, CSS, Bootstrap, C, C++, JAVA**
 
