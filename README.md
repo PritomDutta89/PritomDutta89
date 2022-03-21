@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 
-- 💬 Ask me about **ReactJs, Redux, JS, HTML, CSS, Bootstrap, C, C++, JAVA**
+- 💬 Ask me about **ReactJs, Redux, JavaScript, HTML, CSS, Bootstrap, C, C++, JAVA**
 
 - 📫 How to reach me **duttapritom777@gmail.com**
 
