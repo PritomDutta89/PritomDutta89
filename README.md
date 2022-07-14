@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on ReactJS 
 
-- 📝 I regularly write articles on [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
+- 📝 I often write articles on [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 
 - 💬 Ask me about **ReactJs, Redux, JavaScript, HTML, CSS, Bootstrap, C, C++, JAVA**
 
