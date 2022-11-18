@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pritom Dutta</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer</h3>
+<h3 align="center">Full-Stack Web Developer [MERN]</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritomdutta89&label=Profile%20views&color=0e75b6&style=flat" alt="pritomdutta89" /> </p>
 
