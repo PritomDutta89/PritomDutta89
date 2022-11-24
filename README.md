@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pritomdutta89" alt="pritomdutta89" /></a> </p>
 
-- 🔭 I’m currently working on JavaScript, ReactJS, Redux & Firebase
-
-- 🌱 I’m currently learning **NodeJs**
-
-- 👯 I’m looking to collaborate on ReactJS 
+- 🔭 I’m currently working on JavaScript, ReactJS, Redux & Firebase, NodeJS
 
 - 📝 I often write articles on [https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
 
